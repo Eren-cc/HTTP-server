@@ -35,7 +35,7 @@ HTTPServer
 	* Chrome
 	* FireFox
 	* 其他浏览器暂无测试
-https://raw.githubusercontent.com/Eren-cc/httpserver/main/image/000.png
+<div align=center><img src="http://ww1.sinaimg.cn/large/005TJ2c7ly1ge0j1atq5hj30g60lm0w4.jpg" height="765"/> </div>
 wenbench
 -----------
 *
