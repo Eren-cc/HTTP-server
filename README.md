@@ -3,7 +3,7 @@
 HTTPServer
 ===============
 
-本项目是在 [https://github.com/Flamel-NW/TinyWebServer-Cpp](https://github.com/qinguoyi/TinyWebServer)基础上进行对网络编程的学习研究
+本项目是在 [TinyWebServer](https://github.com/qinguoyi/TinyWebServer)基础上进行对网络编程的学习研究
 
 项目内容
 ------------
