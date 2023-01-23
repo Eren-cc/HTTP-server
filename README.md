@@ -2,7 +2,8 @@
 
 HTTPServer
 ===============
-本项目是在 基础上进行对网络编程的学习研究
+
+本项目是在 https://github.com/Flamel-NW/TinyWebServer-Cpp#:~:text=%E5%80%9F%E9%89%B4%E4%BA%86TinyWebServer,%E6%94%B9%E8%89%AF%E5%92%8C%E5%88%9B%E6%96%B0基础上进行对网络编程的学习研究
 
 * 使用 **线程池 + 非阻塞socket + epoll(ET和LT均实现) + 事件处理(Reactor和模拟Proactor均实现)** 的并发模型
 * 使用**状态机**解析HTTP请求报文，支持解析**GET和POST**请求
