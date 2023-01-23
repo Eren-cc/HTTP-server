@@ -38,18 +38,27 @@ HTTPServer
 > * 服务器运行
 
 <div align=center><img src="https://raw.githubusercontent.com/Eren-cc/httpserver/main/image/000.png" height="400"/> </div>
-> * 服务器运行
-<div align=center><img src="https://raw.githubusercontent.com/Eren-cc/httpserver/main/image/000.png" height="400"/> </div>
-> * 服务器运行
-<div align=center><img src="https://raw.githubusercontent.com/Eren-cc/httpserver/main/image/001.png" height="400"/> </div>
-> * 服务器运行
+
+> * 主页面
+
 <div align=center><img src="https://raw.githubusercontent.com/Eren-cc/httpserver/main/image/002.png" height="400"/> </div>
-> * 服务器运行
+
+> * 登录
+
+<div align=center><img src="https://raw.githubusercontent.com/Eren-cc/httpserver/main/image/001.png" height="400"/> </div>
+
+> * 图品展示
+
 <div align=center><img src="https://raw.githubusercontent.com/Eren-cc/httpserver/main/image/003.png" height="400"/> </div>
-> * 服务器运行
+
+> * 视频播放展示
+
 <div align=center><img src="https://raw.githubusercontent.com/Eren-cc/httpserver/main/image/004.png" height="400"/> </div>
-> * 服务器运行
+
+> * 图片上传（未实现）
+
 <div align=center><img src="https://raw.githubusercontent.com/Eren-cc/httpserver/main/image/005.png" height="400"/> </div>
+
 wenbench
 -----------
 *
