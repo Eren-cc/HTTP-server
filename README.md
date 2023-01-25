@@ -61,7 +61,7 @@ HTTPServer
 
 webbench
 -----------
-* 服务器内存 8.00 GB (7.74 GB 可用)
+* 服务器为个人PC，内存为 8.00 GB (7.74 GB 可用)
 > * webbench服务器压测
 
 <div align=center><img src="https://raw.githubusercontent.com/Eren-cc/httpserver/main/image/7.png" height="200"/> </div>
