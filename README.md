@@ -29,13 +29,12 @@ HTTPServer
 运行
 ------------
 * 服务器测试环境
-	* Ubuntu版本16.04
+	* Ubuntu版本20.04
 	* MySQL版本5.7.29
 * 浏览器测试环境
 	* Windows、Linux均可
 	* Chrome
 	* FireFox
-	* 其他浏览器暂无测试
 > * 服务器运行
 
 <div align=center><img src="https://raw.githubusercontent.com/Eren-cc/httpserver/main/image/000.png" height="400"/> </div>
@@ -62,8 +61,8 @@ HTTPServer
 
 webbench
 -----------
+* 服务器内存 8.00 GB (7.74 GB 可用)
 > * webbench服务器压测
 
 <div align=center><img src="https://raw.githubusercontent.com/Eren-cc/httpserver/main/image/7.png" height="200"/> </div>
-
 
