@@ -47,7 +47,7 @@ HTTPServer
 
 <div align=center><img src="https://raw.githubusercontent.com/Eren-cc/httpserver/main/image/001.png" height="400"/> </div>
 
-> * 图品展示
+> * 图片展示
 
 <div align=center><img src="https://raw.githubusercontent.com/Eren-cc/httpserver/main/image/003.png" height="400"/> </div>
 
