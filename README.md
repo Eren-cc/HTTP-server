@@ -55,7 +55,7 @@ HTTPServer
 
 <div align=center><img src="https://raw.githubusercontent.com/Eren-cc/httpserver/main/image/004.png" height="400"/> </div>
 
-> * 图片上传（未实现）
+> * 文件上传（未实现）
 
 <div align=center><img src="https://raw.githubusercontent.com/Eren-cc/httpserver/main/image/005.png" height="400"/> </div>
 
